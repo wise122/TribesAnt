@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x7C1a5aACDDad56aa30C0e44bEeD637dbDf41780A",
+  "SCAN_LINK": "https://etherscan.io/address/0x7c1a5aacddad56aa30c0e44beed637dbdf41780a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Tribes Ant",
+  "SYMBOL": "TST",
+  "MAX_SUPPLY": 3000,
+  "DISPLAY_COST": 0.00588066,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/TribesAnt",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/TribesAnt",
+  "SHOW_BACKGROUND": false
+}
